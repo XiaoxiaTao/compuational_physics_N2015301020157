@@ -1,6 +1,6 @@
 # compuational_physics_N2015301020157
 # Homework list
-- [x] [Exercise_03:All levels](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_03:All%20levels)
+- [x] [Exercise_03](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_03:All%20levels)
 - [x] [Exercise_04:Chapter1 problem 1.5:The decay of two kinds of particles](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_04:Chapter1%20problem%201.5:The%20decay%20of%20two%20kinds%20of%20particles)
 - [x] [Exercise_05:Chapter1 problem 1.6:Population growth](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_05:Chapter1%20problem%201.6:Population%20growth)
 - [x] [Exercise_06:Chapter2 problem 2.9 & 2.10:The cannon](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_06:Chapter2%20problem%202.9%20%26%202.10:The%20cannon)
