@@ -20,3 +20,7 @@ plt.xlabel("t(s)")
 plt.ylabel("V(m/s)")
 plt.legend()
 plt.show()
+
+ 
+ 
+ [实验报告](https://www.zybuluo.com/mdeditor#901840)
