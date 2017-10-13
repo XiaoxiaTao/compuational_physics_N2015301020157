@@ -1,6 +1,6 @@
 # compuational_physics_N2015301020157
 # Homework list
-- [x] [Exercise o3](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_02)
+- [x]  [Exercise o2](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_02)
 - [x] [Exercise_03](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_03.py)
 - [x] [Exercise_04:Chapter1 problem 1.5:The decay of two kinds of particles](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_04:Chapter1%20problem%201.1.py)
                                ## [实验报告2.9](https://www.zybuluo.com/Xiaoxia-/note/901840)
