@@ -8,12 +8,4 @@
 ### [实验报告2.9](https://www.zybuluo.com/Xiaoxia-/note/914566)
 - [x] [Exercise_06:Chapter2 problem 2.19](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_06:Chapter2%20problem%202.19.py)
 ### [实验报告2.19](https://www.zybuluo.com/Xiaoxia-/note/921286)
-- [ ] [Exercise_07]
-- [ ] [Exercise_08]
-- [ ] [Exercise_09:]
-- [ ] [Exercise_10: ]
-- [ ] [Exercise_11:]
-- [ ] [Exercise_12:]
-- [ ] [Exercise_13:]
-- [ ] [Exercise_14: ]
-- [ ] [Final Project: ]
+
