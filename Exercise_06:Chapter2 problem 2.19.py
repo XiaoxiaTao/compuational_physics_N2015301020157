@@ -1,17 +1,11 @@
 import math
 import matplotlib.pyplot as plt
-# import modules above
 g=9.8
 omega=4000*math.pi/60
 vd=35
 v_wind=3
 Delta=5
-S0m=0.00041#it means s0/m
-# B2m=0.00004
-# y_zero=10000
-# a=0.0065
-# T0=300
-# alpha=2.5
+S0m=0.00041
 class baseball:
     def __init__(self,v0,theta,yFinal=0):
         self.x0=0
@@ -45,22 +39,17 @@ class baseball:
             self.Vy.append(newVy)
             meanVx=0.5*(self.Vx[-1]+self.Vx[-2])
             meanVy=0.5*(self.Vy[-1]+self.Vy[-2])
-#            meanV=math.sqrt(meanVx**2+meanVy**2) # not used in Cannon0 because there is no air drag
             newX=self.X[-1]+meanVx*self.dt
             newY=self.Y[-1]+meanVy*self.dt
             self.X.append(newX)
             self.Y.append(newY)
-        # fix the final landing coordinate        
-#        r=-self.Y[-2]/self.Y[-1]
         self.X[-1]=((self.Y[-2]-self.yFinal)*self.X[-1]+(self.yFinal-self.Y[-1])*self.X[-2])/(self.Y[-2]-self.Y[-1])
         self.Y[-1]=self.yFinal
         return 0
-    # get the final distance shells can reach
     def distance(self):
         return self.X[-1]
     def height(self):
         return max(self.Y)
-    # represent trajectory 
     def plot_2d(self, color):
         plt.plot(self.X,self.Y,color,label="$%dm/s$,$%d\degree$, with backspin"%(self.v0,self.Theta))
         legend(loc='best')
@@ -71,8 +60,7 @@ class baseball:
         y=[]
         for t in self.'''
 class baseball1(baseball):
-    "the second simplest model with no air drag under constant air density, no probability distribution"    
-    # external force other than gravity        
+    "the second simplest model with no air drag under constant air density, no probability distribution"        
     def F(self,vx,vy,y=1):
         vxy=math.sqrt(vx**2+vy**2)
         Fx=-self.B2m(vxy)*math.sqrt((vx-v_wind)**2+vy**2)*(vx-v_wind)
@@ -82,7 +70,6 @@ class baseball1(baseball):
         plt.plot(self.X,self.Y,color,label="$%dm/s$,$%d\degree$, no backspin"%(self.v0,self.Theta))
         return 0
         
-# select the angle casting the largest distance
 import numpy as np
 
 theta=np.linspace(15,75,12)
