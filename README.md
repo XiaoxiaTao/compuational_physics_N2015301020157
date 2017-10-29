@@ -9,3 +9,5 @@
 - [x] [Exercise_06:Chapter2 problem 2.19](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_06:Chapter2%20problem%202.19.py)
 ### [实验报告2.19](https://www.zybuluo.com/Xiaoxia-/note/921286)
 
+- [x] [Exercise_07:Chapter3 problem 3.12 实验报告](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_07:Chapter3%20problem%203.12%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.py)
+### [实验报告](https://www.zybuluo.com/Xiaoxia-/note/932115)
