@@ -11,3 +11,5 @@
 
 - [x] [Exercise_07:Chapter3 problem 3.12](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_07:Chapter3%20problem%203.12%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.py)
 ### [实验报告3.12](https://www.zybuluo.com/Xiaoxia-/note/932115)
+- [x] [Exercise_08:Chapter3 problem 3.26](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_08:Chapter3%20problem%203.26.py)
+### [实验报告3.26](https://www.zybuluo.com/Xiaoxia-/note/932113)
