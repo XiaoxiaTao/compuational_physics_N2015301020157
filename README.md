@@ -14,3 +14,5 @@
 - [x] [Exercise_08:Chapter3 problem 3.26](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_08:Chapter3%20problem%203.26.py)
 ### [实验报告3.26](https://www.zybuluo.com/Xiaoxia-/note/932113)
 - [x] [期中作业](https://www.zybuluo.com/Xiaoxia-/note/932075)
+- [x] [Exercise_10:Chapter4 problem 4.16]
+### [实验报告4.16](https://www.zybuluo.com/Xiaoxia-/note/971314)
