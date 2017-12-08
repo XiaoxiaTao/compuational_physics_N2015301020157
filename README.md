@@ -17,5 +17,5 @@
 
 - [x] [Exercise_10:Chapter4 problem 4.16](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_10:Chapter4%20problem%204.16.py)
 ### [习题4.16](https://www.zybuluo.com/Xiaoxia-/note/971314)
-- [x] [Exercise_11:Chapter5 problem 5.3](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/tree/master)
+- [x] [Exercise_11:Chapter5 problem 5.3](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_11:Chapter5%20problem%205.3.py)
 ### [习题5.3](https://www.zybuluo.com/Xiaoxia-/note/971518)
