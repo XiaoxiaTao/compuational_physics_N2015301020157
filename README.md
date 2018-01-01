@@ -19,3 +19,4 @@
 ### [习题4.16](https://www.zybuluo.com/Xiaoxia-/note/971314)
 - [x] [Exercise_11:Chapter5 problem 5.3](https://github.com/XiaoxiaTao/compuational_physics_N2015301020157/blob/master/Exercise_11:Chapter5%20problem%205.3.py)
 ### [习题5.3](https://www.zybuluo.com/Xiaoxia-/note/971518)
+- [x] [Exercise_12:期末作业]（https://www.zybuluo.com/Xiaoxia-/note/996466）
